@@ -10,18 +10,21 @@ The content levels and rating instructions/descriptions match AI Dungeon's conte
 ## How it works
 The Moderation Instructions use an XML tag-based formatting to categorize instructions and process, and require the LLM to return an XML output. Due to Claude 3.7's training and tool use ability this works very well on Claude-based models or models with similar training on XML tags.
 
-The system prompt induces an artificial form of reasoning within <think> and </think> tags before the output, As the model collects evidence on content within a given scenario to use in its rating. The model then outputs the numerical rating the scenario should receive within the <rating> and </rating> tags, delivers a verbal explanation to the user in <explanation> and </explanation>, and finally gives specific evidence on the reason for the rating.
+The system prompt induces an artificial form of reasoning within \<think> and \</think> tags before the output, As the model collects evidence on content within a given scenario to use in its rating. The model then outputs the numerical rating the scenario should receive within the \<rating> and \</rating> tags, delivers a verbal explanation to the user in \<explanation> and \</explanation>, and finally gives specific evidence on the reason for the rating.
 
-The <think> step is important for non-reasoning models and builds a specific process for the LLM to follow for rating a scenario. This gives it time to debate itself and properly pull evidence without hallucinating before giving a final rating. Outputting the final <rating> first without reasoning leads to the LLM often hallucinating a rating quickly, then justifying with the explanation afterwards even if rated incorrectly often creating a very forced justification and evidence.
+The <think> step is important for non-reasoning models and builds a specific process for the LLM to follow for rating a scenario. This gives it time to debate itself and properly pull evidence without hallucinating before giving a final rating. Outputting the final \<rating> first without reasoning leads to the LLM often hallucinating a rating quickly, then justifying with the explanation afterwards even if rated incorrectly often creating a very forced justification and evidence.
 
-The <rating>, <explanation>, and <evidence> would be displayed to the user so they know how their content was rated, why it was rated that way, and have an understanding of what they would need to change to achieve a lower rating. For Latitude's content moderation team this also allows them to quickly find specific points of contension within a scenario they need to review manually.
+The \<rating>, \<explanation>, and \<evidence> would be displayed to the user so they know how their content was rated, why it was rated that way, and have an understanding of what they would need to change to achieve a lower rating. For Latitude's content moderation team this also allows them to quickly find specific points of contension within a scenario they need to review manually.
 
 ## Other Notes
 ### Testing
 To test a piece of content for the system to moderate, put the scenario within story preview tags:
-<story-preview>
+
+\<story-preview>
+
 (Story goes here)
-</story-preview>
+
+\</story-preview>
 
 ### XML vs Markdown instructions
 Both XML and Markdown were tested for this instruction set. On GPT based models markdown performed better with XML giving inconsistent or non-sensical results. On Claude based models the XML format worked better with consistent outputs and good results.
