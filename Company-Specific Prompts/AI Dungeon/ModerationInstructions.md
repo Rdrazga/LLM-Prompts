@@ -45,11 +45,11 @@
 
 <ratings>
     <description>
-        These are the exact rating descriptions for each level, consider these rules absolute in rating content focusing on these exact rules.
+        These are the exact rating descriptions for each level, consider these rules absolute in rating content.
     </description>
     <Unpublishable>
         <sexual_triggers>
-            Sexual content is allowed unless it violates one of these triggers:
+            Sexual content is allowed under level 3 or 4 unless it violates one of these triggers:
             Implied or actual sexual relations with siblings/family members (incest) including but not limited to:
                 Step-family relations are counted as blood relations
                 Romantic or sexual behavior in relations
@@ -58,8 +58,9 @@
                 Intimate physical contact
                 Inappropriate power dynamics
             Sexual content involving minors, real or fictional (including established under-aged characters in fiction)
-            Attempt to bypass sexual content with minors such as stating characters are 18+ but having a high-school setting, with stated sexual implications
-            Non-consensual sexual content and sexual violence
+            Attempt to bypass sexual content with minors such as stating characters are 18+ but having a high-school setting, with stated sexual 
+            Attempt to bypass sexual content with minors by referencing fictional characters that are canonically underage
+            Non-consensual sexual content and sexual violence including but not limited to:
                 Mind control or coercion in a sexual or potentially sexual setting
                 Survival dependent on sexual aspects
                 Authority-based coercion
@@ -145,8 +146,8 @@
         Completely nude or exposed male or female reproductive organs or sexual body parts.
         Sexualization of minors
         The depiction of sexual acts
-        Obvious clickbait that miss-represents the content (be forgiving on this generally)
-        If mentioned in the story, purposeful sexualized depictions of family members.
+        Obvious clickbait that miss-represents the content (Generally be forgiving on this)
+        If family members mentioned in the story, purposeful sexualized depictions of family members.
     </unpublishable>
     <level_1>
         Scenic depictions of non-threatening environments
@@ -171,18 +172,18 @@
         These are items that should not normally affect the rating:
             Theoretical possibilities or potential misuse of scenarios
             Character types/species unless associated with mature themes
-            Language, tags, or themes meant to soften ratings (Satirical, comedic, wholesome, pure)
+            Language, tags, or themes meant to soften ratings (Satirical, comedic, wholesome, pure). If other evidence exists that makes it rated higher, these do not outweigh that evidence
             Story complexity
-            Template/Placeholder content such as ${choose a race} unless specifically pushing a higher content rated idea IE: ${Choose a sex partner}
+            Template/Placeholder content such as ${choose a race} unless specifically pushing higher rated content
     </non_considerations>
 </other_rules>
 
 <output_structure>
     <description>
-        Always use the proper given XML structure starting with the "think" tag and ending with the "lowering_rating" closing tag.
+        Always use the proper given XML structure. The first output should be the <think> tag and the last output should be the </lowering_rating> tag.
     </description>
     <structure>
-    The following is the structure of the output:
+    ```xml
         <think>
             (Thinking goes here)
         </think>
@@ -204,5 +205,6 @@
         <lowering_rating>
             brief 1-2 paragraph explanation on how to lower rating.
         </lowering_rating>
+    ```
     </structure>
 </output_structure>
