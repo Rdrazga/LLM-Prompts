@@ -3,7 +3,7 @@
 AI Dungeon is an online text-based publishing platform to publish role-play (RPG) scenarios run by LLMs. The site allows for content of various ratings similar to ESRB ratings, and automatically moderates them using Claude.
 
 ## Disclaimer
-I am not associated with Latitude or AI Dungeon in any way, These are user-made system prompts that were created as a part of collaborating with Latitude's staff in their discord on making and testing the content moderation tool. AI Dungeon's actual content moderation System Prompt and Content Policy can be found on their website.
+I am not a part of latitude's team and this is not an official system prompt for Latitude or AI Dungeon, These are user-made system prompts that were created as a part of collaborating with Latitude's staff in their discord on making and testing the content moderation tool. AI Dungeon's actual content moderation System Prompt and Content Policy can be found on their website.
 
 The content levels and rating instructions/descriptions match AI Dungeon's content policy at the time. They do not represent AI Dungeon's current moderation or content policy.
 
