@@ -40,13 +40,20 @@
             </likely_bypass>
         </potential_bypasses>
         <canidate_rating>
-            <>
+            <rating_explanation>
+            </rating_explanation>
             <rating_metrics>
                 Rating required skills and metrics of the canidate, 1-10 scale, 1 = poor, 10 = excellent.
                 {{Prior Experience: }}
                 {{Past Projects: }}
-                {{}}
+                {{Interview Responses: }}
+                {{Skill 1: }}
+                {{Skill 2: }}
             </rating_metrics>
+            <canidate_summary>
+                Create a no-BS summary of the canidate explaining pros and cons of the canidate not captured in their quantitative rating. Min 1 paragraph, Max 4. This will be read by the recruiter as part of the decision making process.
+                {{Summary}}
+            </canidate_summary>
         </canidate_rating>
     ```
 </output_format>
