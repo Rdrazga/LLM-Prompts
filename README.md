@@ -4,8 +4,11 @@ Repository of LLM Prompts and System prompts created by me for various purposes.
 ### Agent Prompts
 Both system and "user" prompt injections written for agentic use.
 
+### Agentic Coding Prompts
+More specific set of prompts for coding agents (Cline, Roo, Cursor, Windsurf, ect.)
+
 ### Company-Specific Prompts
-Prompts made officially or unofficially for use by a specific organization. These are made by me and prompts I am allowed to share, and do not contain any stolen prompts or prompts under NDA.
+Prompts made officially or unofficially for use by a specific organization. These are made by me and prompts I am allowed to share.
 
 ### Creative Prompts
 Prompts for changing LLM's creative behavior. Including first person personas, storytelling, or creative writing prompts.
