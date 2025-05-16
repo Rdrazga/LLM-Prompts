@@ -1,6 +1,8 @@
 # LLM-Prompts
 Repository of LLM Prompts and System prompts created by me for various purposes. READMEs are included describing the purpose, functionality, and design of the prompts.
 
+This is Work In Progress and prompts are slowly being added, many folders are empty currently.
+
 ### Agent Prompts
 Both system and "user" prompt injections written for agentic use.
 
