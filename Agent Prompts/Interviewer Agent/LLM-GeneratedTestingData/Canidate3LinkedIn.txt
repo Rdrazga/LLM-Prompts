@@ -1,0 +1,64 @@
+**Candidate3: LinkedIn Profile (Mock)**
+
+---
+
+**Name**
+Ravi Patel
+
+---
+
+**Headline**
+Junior Data Analyst | SQL & Excel | Curious Learner
+
+---
+
+**Location**
+Austin, Texas, USA
+
+---
+
+**About**
+Aspiring data professional with two years of experience in data analysis and reporting. Proficient in SQL querying and Excel-based analytics, with a strong interest in learning cloud data engineering tools. Seeking opportunities to grow technical skills and contribute to data-driven projects.
+
+---
+
+**Experience**
+
+**Data Analyst Intern**
+HealthMetrics LLC (Austin, TX)
+*June 2023 – August 2024*
+
+* Wrote SQL queries to extract and aggregate healthcare utilization data for weekly dashboards.
+* Created Excel pivot tables and charts to visualize patient trends for management review.
+* Assisted senior analysts in data cleaning using Power Query and basic Python scripts.
+* Documented data definitions and built simple data dictionaries.
+
+**Office Assistant / Report Coordinator**
+BrightView Consulting (Austin, TX)
+*January 2022 – May 2023*
+
+* Compiled monthly client performance reports using Excel templates.
+* Managed data entry and quality checks for CRM and billing systems.
+* Coordinated meetings and distributed project status summaries to stakeholders.
+
+---
+
+**Education**
+
+* **B.A., Economics**
+  University of Texas at Austin, 2021
+
+---
+
+**Skills & Endorsements**
+
+* SQL (basic SELECT, JOIN, GROUP BY)
+* Excel (pivot tables, VLOOKUP, basic macros)
+* Python (pandas for data cleaning)
+* Power Query & Power BI (introductory)
+* Data Documentation & Reporting
+
+---
+
+**Interests**
+Data storytelling, online courses (Coursera, Udemy), hiking, local tech meetups.

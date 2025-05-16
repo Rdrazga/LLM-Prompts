@@ -1,0 +1,24 @@
+\[Date: May 15, 2025]
+
+**Hiring Manager**
+BrightWave Analytics
+Remote – Denver, CO
+
+Dear Hiring Manager,
+
+I am excited to apply for the Senior Data Engineer position at BrightWave Analytics. With four years of hands‑on experience designing and maintaining cloud‑based ETL pipelines and data warehouses—most recently at InsightStream Analytics—and a solid foundation in Python and SQL, I am eager to contribute to your team’s mission of delivering real‑time analytics and AI solutions.
+
+At InsightStream Analytics, I built and scheduled complex ETL workflows in Azure Data Factory, ingesting transactional data from on‑premises SQL Server and external APIs. I also designed and optimized BigQuery schemas on GCP, reducing average query times by 30%, and implemented streaming ingestion pipelines with Pub/Sub and Dataflow to process over 200 million events per month. To safeguard data quality, I introduced automated validation checks with Great Expectations, which proactively caught schema drift before it reached production. These experiences have honed my ability to translate business requirements into robust, scalable data solutions—skills I’m excited to bring to BrightWave’s AWS‑based environment.
+
+In my previous role at TechSolutions Co., I maintained Python‑driven ETL scripts for nightly loads into PostgreSQL, introduced Apache NiFi to replace ad‑hoc cron jobs, and assisted in migrating on‑prem Hadoop workloads to GCP Dataproc. Although I have not yet worked extensively with Airflow or AWS Glue, my experience learning and implementing new orchestration tools—such as Prefect and NiFi—gives me confidence in my ability to ramp up quickly on AWS services and Apache Airflow. My collaborative work with DevOps to containerize services using Docker and deploy via AKS further demonstrates my adaptability and eagerness to master infrastructure‑as‑code practices.
+
+BrightWave’s commitment to empowering enterprise clients through scalable, secure data platforms aligns perfectly with my career goals. I am particularly drawn to the opportunity to mentor junior engineers, optimize pipeline performance, and establish data governance practices within an AWS ecosystem. I am confident that my background in cloud data platforms, combined with my drive to learn new technologies, will allow me to make meaningful contributions to your team.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences can help BrightWave Analytics achieve its next phase of growth. Please find my resume attached, and feel free to reach out at [jordan.lee@example.com](mailto:jordan.lee@example.com) or via LinkedIn at linkedin.com/in/jordanlee-data.
+
+Sincerely,
+
+Jordan Lee
+Data Engineer
+[jordan.lee@example.com](mailto:jordan.lee@example.com)
+LinkedIn: linkedin.com/in/jordanlee-data

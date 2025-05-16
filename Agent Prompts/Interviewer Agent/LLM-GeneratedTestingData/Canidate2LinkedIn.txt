@@ -1,0 +1,85 @@
+**Candidate2: LinkedIn Profile (Mock)**
+
+---
+
+**Name**
+Jordan Lee
+
+---
+
+**Headline**
+Data Engineer | 4 Years in Cloud & ETL | Azure & GCP Experience | Python & SQL Enthusiast
+
+---
+
+**Location**
+Denver, Colorado, USA
+
+---
+
+**About**
+Data engineer with four years of experience designing and maintaining ETL pipelines and data warehouses in cloud environments. Skilled in Python and SQL performance tuning, with hands‑on work in Azure Data Factory, Google Cloud Pub/Sub, and Apache NiFi. Passionate about translating business requirements into reliable data solutions and continuously improving data quality. Seeking to leverage my strong foundation in cloud data platforms to grow into a Senior Data Engineer role at BrightWave Analytics.
+
+---
+
+**Experience**
+
+**Data Engineer**
+InsightStream Analytics (Remote)
+*July 2021 – Present*
+
+* Developed and scheduled ETL workflows in Azure Data Factory to ingest transactional data from on‑premises SQL Server and external APIs.
+* Designed GCP BigQuery schemas and optimized SQL queries, reducing average query time by 30%.
+* Built streaming ingestion using Google Cloud Pub/Sub and Dataflow, processing \~200M events/month.
+* Implemented data validation checks with Great Expectations, catching schema drift before production impact.
+* Collaborated with DevOps to containerize data services using Docker and deploy via Azure Kubernetes Service (AKS).
+
+**Backend Developer / Data Engineer**
+TechSolutions Co. (Denver, CO)
+*January 2020 – June 2021*
+
+* Maintained Python‑based ETL scripts for nightly data loads into a PostgreSQL warehouse.
+* Introduced Apache NiFi for flow‑based data ingestion, replacing ad‑hoc cron jobs.
+* Assisted in migrating parts of the on‑prem Hadoop cluster to GCP Dataproc.
+* Wrote unit and integration tests for data pipelines using PyTest and pytest‑airflow.
+* Participated in on‑call rotations for data pipeline failures and SLA monitoring.
+
+---
+
+**Education**
+
+* **B.S., Computer Science**
+  University of Colorado Boulder, 2019
+
+---
+
+**Certifications**
+
+* Microsoft Certified: Azure Data Engineer Associate
+* Google Cloud Professional Data Engineer (In Progress)
+
+---
+
+**Skills & Endorsements**
+
+* **Data Engineering:** Azure Data Factory, GCP BigQuery, Apache NiFi, Dataflow, Pub/Sub
+* **Cloud & DevOps:** Azure Kubernetes Service (AKS), Docker, Terraform (basic)
+* **Programming:** Python (pandas, SQLAlchemy), SQL (PostgreSQL, BigQuery)
+* **Data Quality:** Great Expectations, custom validation scripts
+* **Workflow Orchestration:** Prefect, basic Airflow scripting
+
+---
+
+**Recommendations**
+
+> “Jordan quickly adapted to our cloud‑native stack and brought valuable insights on optimizing BigQuery workloads. A collaborative team player.”— Sara Patel, Lead Data Scientist at InsightStream Analytics
+
+> “Reliable and proactive. Jordan’s introduction of Apache NiFi helped stabilize our data flows and reduce maintenance overhead.”— David Chen, CTO at TechSolutions Co.
+
+---
+
+**Volunteer & Interests**
+
+* Mentor, Denver Python Meetup
+* Contributor, Open‑source Prefect community
+* Interests: trail running, data visualization, chess.

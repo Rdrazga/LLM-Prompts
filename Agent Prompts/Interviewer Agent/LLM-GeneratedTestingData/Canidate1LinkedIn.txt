@@ -1,0 +1,102 @@
+**Candidate1: LinkedIn Profile (Mock)**
+
+---
+
+**Name**
+Dr. Alexandra “Alex” Ramirez, Ph.D.
+
+---
+
+**Headline**
+Enterprise Data Architect | 10+ Years in Cloud & Big Data | AWS Certified | Speaker & Mentor
+
+---
+
+**Location**
+Denver, Colorado, USA
+
+---
+
+**About**
+Seasoned data engineering leader with a Ph.D. in Computer Science and over 12 years of hands‑on experience designing and scaling cloud-based analytics platforms. Proven track record architecting end‑to‑end ETL pipelines, optimizing data warehouses, and driving cross‑functional analytics initiatives at Fortune 500 and high‑growth startups alike. Passionate about mentoring engineers, delivering technical talks at industry conferences, and pioneering machine learning feature stores that power AI-driven products. Excited by opportunities to leverage my deep AWS expertise and data governance best practices to accelerate BrightWave Analytics’s next phase of growth.
+
+---
+
+**Experience**
+
+**Director of Data Engineering**
+GlobalInsights Inc. (Remote)
+*January 2020 – Present*
+
+* Led a team of 15+ data engineers and analysts in designing a multi‑tenant data lake on AWS S3 with Lake Formation, reducing data onboarding time by 60%.
+* Architected a Spark‑based feature engineering pipeline for real‑time fraud detection, improving model accuracy by 18%.
+* Implemented Terraform and CloudFormation modules to automate infrastructure provisioning across dev, QA, and prod.
+* Established CI/CD for Airflow DAGs, enabling zero‑downtime pipeline deployments.
+
+**Senior Data Engineer / Technical Lead**
+FinEdge Technologies (Denver, CO)
+*June 2016 – December 2019*
+
+* Built and maintained Apache Kafka–powered streaming ingestion pipelines processing 1B+ events/day.
+* Migrated on‑premises Oracle data warehouse to AWS Redshift, cutting storage costs by 45% and query latency by 35%.
+* Designed data quality frameworks using Great Expectations, detecting and resolving data issues proactively.
+* Mentored junior engineers; spearheaded quarterly “Data Hackathons” to foster innovation.
+
+**Data Engineer**
+HealthSync Analytics (Boulder, CO)
+*July 2012 – May 2016*
+
+* Developed Python/SQL ETL processes to integrate EMR and claims data for population health analytics.
+* Implemented dimensionally modeled Redshift schemas supporting self‑service BI in Tableau.
+* Participated in on‑call rotations; reduced incident MTTR by 40% through automated alerting and runbook improvements.
+
+---
+
+**Education**
+
+* **Ph.D., Computer Science**
+  University of Colorado Boulder, 2012
+  – Dissertation: “Scalable Stream Processing Architectures for Real‑Time Analytics”
+* **M.S., Computer Science**
+  University of Colorado Boulder, 2008
+* **B.S., Computer Engineering** (Summa Cum Laude)
+  Colorado School of Mines, 2006
+
+---
+
+**Certifications**
+
+* AWS Certified Solutions Architect – Professional
+* AWS Certified Big Data – Specialty
+* Apache Kafka Certified Developer
+
+---
+
+**Skills & Endorsements**
+
+* **Data Engineering:** Apache Airflow, AWS Glue, Spark, Kafka, Redshift, S3, DynamoDB
+* **Cloud & DevOps:** Terraform, CloudFormation, Docker, Kubernetes, CI/CD (Jenkins, GitLab)
+* **Programming:** Python (pandas, PySpark), SQL, Java
+* **Data Governance & Quality:** Great Expectations, Data Cataloging, GDPR/CCPA compliance
+* **Leadership:** Team Building, Mentorship, Technical Roadmapping
+
+---
+
+**Recommendations**
+
+> “Alex transforms complex data challenges into streamlined solutions. Her leadership and deep technical expertise were instrumental in our 2021 product launch.”— Jasmine Lee, VP of Analytics at GlobalInsights Inc.
+
+> “A brilliant architect and mentor. Alex’s designs scaled seamlessly from prototypes to production, and her guidance helped our junior team members flourish.”— Marcus Nguyen, Staff Data Engineer at FinEdge Technologies
+
+---
+
+**Volunteer & Speaking**
+
+* Guest Lecturer, University of Colorado Boulder (Big Data Systems)
+* Speaker, AWS re\:Invent 2024: “Building Resilient Data Lakes with Lake Formation”
+* Organizer, Women in Data Meetup (Denver Chapter)
+
+---
+
+**Interests**
+Real‑time analytics, open‑source contributions (Apache Iceberg), mountain biking, mentoring STEM students.

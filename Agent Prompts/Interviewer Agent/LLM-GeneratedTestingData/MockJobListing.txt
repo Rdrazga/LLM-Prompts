@@ -1,0 +1,72 @@
+**Mock Job Posting: Senior Data Engineer**
+
+**Company:** BrightWave Analytics
+**Location:** Remote (Headquarters in Denver, CO)
+**Position Type:** Full-time, Exempt
+**Salary Range:** \$120,000 – \$150,000 per year
+
+---
+
+### About Us
+
+BrightWave Analytics is a fast-growing data services firm specializing in real-time analytics and machine learning solutions for enterprise clients in finance, healthcare, and retail. Our mission is to transform complex data into actionable insights that drive strategic decision‑making.
+
+---
+
+### Role Overview
+
+We are seeking a **Senior Data Engineer** to join our Cloud Infrastructure team. In this role, you will design, build, and maintain large-scale data pipelines and ETL frameworks on AWS. You’ll collaborate closely with data scientists, analysts, and software engineers to ensure high‑availability, scalable data platforms that support advanced analytics and AI applications.
+
+---
+
+### Key Responsibilities
+
+* Architect, develop, and optimize data ingestion pipelines using Apache Airflow, Kafka, and AWS Glue
+* Design and implement scalable data storage solutions in AWS S3, Redshift, and DynamoDB
+* Build and maintain data models, schemas, and metadata management processes
+* Ensure data quality, consistency, and governance through automated testing and monitoring
+* Collaborate with cross‑functional teams to translate business requirements into technical solutions
+* Mentor junior engineers and conduct code reviews to uphold best practices
+* Participate in on‑call rotation for data platform support and incident response
+
+---
+
+### Required Qualifications
+
+* Bachelor’s degree in Computer Science, Engineering, or related field (Master’s preferred)
+* 5+ years of professional experience in data engineering or backend development
+* Proficiency with Python and SQL, including performance tuning for complex queries
+* Hands-on experience with AWS services: S3, Redshift, EMR, Glue, Lambda, and CloudWatch
+* Solid understanding of data warehousing concepts and ETL design patterns
+* Experience with workflow orchestration tools (e.g., Apache Airflow)
+* Familiarity with messaging systems such as Apache Kafka or AWS Kinesis
+* Strong problem‑solving skills and ability to work both independently and in teams
+
+---
+
+### Preferred Qualifications
+
+* Master’s degree in Data Science, Computer Science, or related discipline
+* Experience with infrastructure as code tools (Terraform, CloudFormation)
+* Knowledge of containerization and orchestration (Docker, Kubernetes)
+* Hands‑on experience with BI platforms (e.g., Tableau, Looker)
+* Familiarity with machine learning pipelines and feature engineering
+
+---
+
+### What We Offer
+
+* Competitive salary and equity package
+* Comprehensive health, dental, and vision insurance
+* Flexible remote work policy with annual team offsites
+* Professional development stipend and learning resources
+* 401(k) plan with company match
+
+---
+
+**Apply:** Please submit your resume and a brief cover letter outlining your relevant experience and interest in BrightWave Analytics to [LinkHere].
+**Application Deadline:** June 15, 2025
+
+---
+
+*BrightWave Analytics is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.*
